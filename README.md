@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @czerjak22
-- 👀 I’m interested in Iot, Automatization, RaspberryPi, Servers, Electronic projects
-- - 🌱 I’m currently learning python
+- 👀 I’m interested in Iot, automatization, raspberrypi, servers, 
 - #Developingdeveloper
 - 📫 How to reach me czerjaknorbert@gmail.com
 
